@@ -1,10 +1,10 @@
-# JGuaman_LLeon
+# Grupo_3
 
-Actividad Práctico Experimental 2: Desarrollo de caso de estudio "Despliegue y evaluación de la Plataforma de pagos de transporte".
+Avance uno de la propuesta de un sistema de inventario. (Diagrama de clases)
 
 # Integrantes: 
 
-Janneth Guamán
+Diego Chamba
 Luis León
 
 # URL
