@@ -10,4 +10,4 @@ Luis León
 
 # URL
 
-https://github.com/JannethGS2610/JGuaman_LLeon.git
+https://github.com/ferleon82/Modelos_Grupo_3.git
